@@ -37,79 +37,86 @@
                                         <div class="space-y-8 lg:grid lg:grid-cols-2 sm:gap-6 xl:gap-10 lg:space-y-0">
                                             <!-- Pricing Card -->
                                             <div class="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
-                                                <h3 class="mb-4 text-2xl font-semibold">Freetest</h3>
-                                                <p class="font-light text-gray-500 sm:text-lg dark:text-gray-400">Best option for personal use & for your next project.</p>
-                                                <div class="flex justify-center items-baseline my-8">
-                                                    <span class="mr-2 text-5xl font-extrabold">$29</span>
-                                                    <span class="text-gray-500 dark:text-gray-400">/month</span>
+                                                <h3 class="mb-4 text-2xl font-semibold">Jalur Freetest</h3>
+                                                <p class="font-light text-gray-500 sm:text-lg dark:text-gray-400">Jalur Freetest adalah jalur masuk Polindo Internasional tanpa test dan mendapatkan potongan biaya spdk sebesar 2-4 juta.</p>
+                                                    <div class="flex justify-center items-baseline my-5">
+                                                    <span class="text-black-500 dark:text-black-800 font-bold">Biaya Pendaftaran</span>
+                                                    <span class="mr-2 text-5xl font-extrabold">300 ribu</span>
                                                 </div>
                                                 <!-- List -->
-                                                <ul role="list" class="mb-8 space-y-4 text-left">
+                                                <span class="text-black-500 dark:text-black-800 font-bold">Syarat dan Ketentuan</span>
+                                                <ul role="list" class="mb-8 space-y-3 text-left">
                                                     <li class="flex items-center space-x-3">
                                                         <!-- Icon -->
                                                         <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-                                                        <span>Individual configuration</span>
+                                                        <span>Lulus dan tamat SMA/SMK/MA</span>
                                                     </li>
                                                     <li class="flex items-center space-x-3">
                                                         <!-- Icon -->
                                                         <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-                                                        <span>No setup, or hidden fees</span>
+                                                        <span>Bayar biaya pendaftaran</span>
                                                     </li>
                                                     <li class="flex items-center space-x-3">
                                                         <!-- Icon -->
                                                         <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-                                                        <span>Team size: <span class="font-semibold">1 developer</span></span>
+                                                        <span>Bebas tes BBM (Bahasa Indonesia, Bahasa Inggris, Matematika)</span>
                                                     </li>
                                                     <li class="flex items-center space-x-3">
                                                         <!-- Icon -->
                                                         <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-                                                        <span>Premium support: <span class="font-semibold">6 months</span></span>
+                                                        <span>Mengikuti tes wawancara</span>
                                                     </li>
                                                     <li class="flex items-center space-x-3">
                                                         <!-- Icon -->
                                                         <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-                                                        <span>Free updates: <span class="font-semibold">6 months</span></span>
+                                                        <span>Mengisi data formulir</span>
+                                                    </li>
+                                                    <li class="flex items-center space-x-3">
+                                                        <!-- Icon -->
+                                                        <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+                                                        <span>kuota terbatas</span>
                                                     </li>
                                                 </ul>
-                                                <a href="#" class="text-white bg-blue-600 hover:bg-blue-700 focus:ring-4 focus:ring-blue-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-blue-900">Get started</a>
+                                                <a href="#" class="text-white bg-blue-600 hover:bg-blue-700 focus:ring-4 focus:ring-blue-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-blue-900">Daftar Sekarang</a>
                                             </div>
                                             <!-- Pricing Card -->
                                             <div class="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
-                                                <h3 class="mb-4 text-2xl font-semibold">Reguler</h3>
-                                                <p class="font-light text-gray-500 sm:text-lg dark:text-gray-400">Relevant for multiple users, extended & premium support.</p>
-                                                <div class="flex justify-center items-baseline my-8">
-                                                    <span class="mr-2 text-5xl font-extrabold">$99</span>
-                                                    <span class="text-gray-500 dark:text-gray-400">/month</span>
+                                                <h3 class="mb-4 text-2xl font-semibold">Jalur Reguler</h3>
+                                                <p class="font-light text-gray-500 sm:text-lg dark:text-gray-400">Jalur Regular adalah jalur masuk Polindo Internasional dengan mengikuti tes dan wajib membayar biaya spdk sepenuhnya.</p>
+                                                <div class="flex justify-center items-baseline my-5">
+                                                    <span class="text-black-500 dark:text-black-800 font-bold">Biaya Pendaftaran</span>
+                                                    <span class="mr-2 text-5xl font-extrabold">300 ribu</span>
                                                 </div>
                                                 <!-- List -->
+                                                <span class="text-black-500 dark:text-black-800 font-bold">Syarat dan Ketentuan</span>
                                                 <ul role="list" class="mb-8 space-y-4 text-left">
                                                     <li class="flex items-center space-x-3">
-                                                        <!-- Icon -->
-                                                        <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-                                                        <span>Individual configuration</span>
+                                                       <!-- Icon -->
+                                                       <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+                                                        <span>Lulus dan tamat SMA/SMK/MA</span>
+                                                    </li>
+                                                    <li class="flex items-center space-x-3">
+                                                       <!-- Icon -->
+                                                       <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+                                                        <span>Bayar biaya pendaftaran</span>
                                                     </li>
                                                     <li class="flex items-center space-x-3">
                                                         <!-- Icon -->
                                                         <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-                                                        <span>No setup, or hidden fees</span>
+                                                        <span>mengikuti tes BBM (Bahasa Indonesia, Bahasa Inggris, Matematika) nilai minim 76</span>
                                                     </li>
                                                     <li class="flex items-center space-x-3">
                                                         <!-- Icon -->
                                                         <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-                                                        <span>Team size: <span class="font-semibold">10 developers</span></span>
+                                                        <span>Mengikuti dan lulus tes tertulis, wawancara dan tes Psikotes</span>
                                                     </li>
                                                     <li class="flex items-center space-x-3">
                                                         <!-- Icon -->
                                                         <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-                                                        <span>Premium support: <span class="font-semibold">24 months</span></span>
-                                                    </li>
-                                                    <li class="flex items-center space-x-3">
-                                                        <!-- Icon -->
-                                                        <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-                                                        <span>Free updates: <span class="font-semibold">24 months</span></span>
+                                                        <span>Mengisi data formulir</span>
                                                     </li>
                                                 </ul>
-                                                <a href="#" class="text-white bg-blue-600 hover:bg-blue-700 focus:ring-4 focus:ring-blue-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-blue-900">Get started</a>
+                                                <a href="#" class="text-white bg-blue-600 hover:bg-blue-700 focus:ring-4 focus:ring-blue-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-blue-900">Daftar Sekarang</a>
                                             </div>
                                         </div>
                                     </div>

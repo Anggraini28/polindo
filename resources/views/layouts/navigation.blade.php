@@ -18,8 +18,11 @@
                     <x-nav-link :href="route('datapeserta')" :active="request()->routeIs('datapeserta')">
                         {{ __('Data Peserta') }}
                     </x-nav-link>
-                    <x-nav-link :href="route('tagihan')" :active="request()->routeIs('tagihan')">
-                        {{ __('Tagihan') }}
+                    <x-nav-link :href="route('pembayaran')" :active="request()->routeIs('pembayaran')">
+                        {{ __('Pembayaran') }}
+                    </x-nav-link>
+                    <x-nav-link :href="route('datapembayaran')" :active="request()->routeIs('datapembayaran')">
+                        {{ __('Data Pembayaran') }}
                     </x-nav-link>
                 </div>
             </div>
